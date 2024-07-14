@@ -30,6 +30,12 @@
         "img":"/orca.webp"
     },
     {
+        "name":"Sanctum",
+        "dappName":"sanctum",
+        "dappId":0,
+        "img":"/sanctum.jpg"
+    },
+    {
         "name":"Kamino",
         "dappName":"Kamino",
         "dappId":21134,
@@ -46,6 +52,12 @@
         "dappName":"MarginFi",
         "dappId":46777,
         "img":"/marginfi.webp"
+    },
+    {
+        "name":"FlashTrade",
+        "dappName":"flashtrade",
+        "dappId":0,
+        "img":"/flashtrade.jpg"
     },
     {
         "name":"Saber",

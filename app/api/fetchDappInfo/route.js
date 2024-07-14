@@ -3,7 +3,6 @@ export async function GET(request) {
   const dappId = searchParams.get("dappId");
   const dappName = searchParams.get("dappName");
 
-  console.log(("DAPPNAME-------------------------------------",dappName))
   let llama_result = await fetchFromDefiLlama(dappName);
 
   // let radar_result = await fetchFromDappRadar(dappId);
@@ -52,7 +51,7 @@ async function fetchFromDefiLlama(dappName){
       revalidate: 3600 * 24,
     },
   });
-  console.log("------------!!!!!!!!!!!--------------")
+  console.log(`------------${dappName}--------------`)
   console.log("res OK?", res.ok)
   if (!res.ok) {
     return {

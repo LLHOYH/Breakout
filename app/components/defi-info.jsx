@@ -15,8 +15,6 @@ const DefiInfo = ({ selectedDapp }) => {
       )
         .then((res) => res.json())
         .then((result) => {
-          console.log("------------!!!!!!!!!!!--------------");
-          console.log(result);
           return {
             totalTvl: result.tvl
               .slice(-1)[0]
@@ -70,8 +68,12 @@ const DefiInfo = ({ selectedDapp }) => {
                   if (index < visibleTokens) {
                     return (
                       <>
-                        <p key={token[0]} className="truncate">{token[0]}</p>
-                        <p key={token[1]} className="truncate">{token[1].toLocaleString()}</p>
+                        <p key={token[0]} className="truncate">
+                          {token[0]}
+                        </p>
+                        <p key={token[1]} className="truncate">
+                          {token[1].toLocaleString()}
+                        </p>
                       </>
                     );
                   }
@@ -81,6 +83,7 @@ const DefiInfo = ({ selectedDapp }) => {
                 {visibleTokens > 10 && (
                   <button
                     onClick={() => setVisibleTokens(10)}
+                    className="hover:underline active:text-black active:font-bold"
                   >
                     (collapse)
                   </button>
@@ -90,8 +93,9 @@ const DefiInfo = ({ selectedDapp }) => {
                     onClick={() =>
                       setVisibleTokens((tokenNum) => tokenNum + 10)
                     }
+                    className="hover:underline active:text-black active:font-bold"
                   >
-                    (... load more)
+                    (load more)
                   </button>
                 )}
               </div>

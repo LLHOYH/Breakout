@@ -12,6 +12,11 @@ This dashboard shows basic information of Solana blockchain and information of s
     - [Dappradar](https://dappradar.com/)
 - [Highcharts](https://www.highcharts.com/)
 
+![deployed](./public/deployed.png)
+
+# Deployed Demo
+[https://breakout-psi.vercel.app/](https://breakout-psi.vercel.app/)
+
 
 ## Getting Started
 
