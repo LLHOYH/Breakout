@@ -15,6 +15,7 @@ const DefiInfo = ({ selectedDapp }) => {
       )
         .then((res) => res.json())
         .then((result) => {
+          setVisibleTokens(10);
           return {
             totalTvl: result.tvl
               .slice(-1)[0]
