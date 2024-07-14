@@ -1,0 +1,4047 @@
+{
+  "success": true,
+  "results": [
+    {
+      "dappId": 13,
+      "name": "OpenSea",
+      "description": "OpenSea is the first and largest peer-to-peer marketplace.",
+      "fullDescription": "<p>OpenSea is the first and largest peer-to-peer marketplace for crypto collectibles, which include gaming items, digital art, and other virtual goods backed by a blockchain.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/13/opensea-dapp-marketplaces-ethereum-logo_a3421ac6e32d529db3c8293f4cfa9bcd.png",
+      "link": "https://dappradar.com/dapp/opensea",
+      "website": "https://opensea.io",
+      "chains": [
+        "arbitrum",
+        "avalanche",
+        "base",
+        "blast",
+        "bnb-chain",
+        "ethereum",
+        "klaytn",
+        "optimism",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/zAHt7Tb",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://facebook.com/projectopensea",
+          "type": "facebook"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/@opensea",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://reddit.com/r/opensea",
+          "type": "reddit"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/opensea",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 3781,
+      "name": "PlayDapp Marketplace",
+      "description": "Buy, Sell, & Auction your NTFs",
+      "fullDescription": "<p>PlayDapp MarketPLAce is a C2C marketplace where you can buy and sell NFTs (Non-Fungible Tokens) game items and other blockchain-based digital assets with ease. With a focus on rewarding &amp; supporting developers and players. All PlayDapp games are interoperable thus providing a portfolio of game content that you can enjoy with your NFTs. You can also trade their characters and items in the C2C marketplace in addition to increasing the value of the NFT by leveling up, strengthening, and amalgamating them. **PlayDapp's vision is to create a world where digital assets are more valuable and accessible to everyone. You will not only be able to take true ownership of their in-game assets for the first time but, will also be able to earn rewards for ecosystem participation.**</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/3781/playdappmarketplace-dapp-marketplaces-eth-logo_131e5ddea8c1f867403bab47db101abb.png",
+      "link": "https://dappradar.com/dapp/playdapp-marketplace",
+      "website": "https://playdapp.com/",
+      "chains": [
+        "ethereum",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/5QMpnJ7",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/playdapp.io/",
+          "type": "facebook"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/playdapp",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/user/playdapp_io",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/cryptodozer_io",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/playdapp_io",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 5173,
+      "name": "MyWish",
+      "description": "MyWish - The First Platform for creating smart contracts with zero codings.",
+      "fullDescription": "<p>MyWish is the leading smart contract generator where anyone can create and manage their crypto assets without writing a code. We eliminate entrance barriers to blockchain mass adoption providing crypto enthusiasts and projects with tools that simplify blockchain technology applications.</p>\n<p>MyWish team is aimed at <strong>simplifying the process of entering the blockchain</strong>, meanwhile contributing to blockchain development.</p>\n<p>We support users along their Crypto journey through all the stages, including:</p>\n<p><strong>1. Creation of Crypto Assets by MyWish Token Generator and Distribution via Crowdsale Contract.</strong></p>\n<p><strong>2. Airdrop Launch.</strong></p>\n<p><strong>3. Managing and Scaling assets through MyWish Cross-Chain Solution</strong></p>\n<p><strong>4. Protection and security of your assets with MyWish Token Protector</strong></p>\n<p>Being the Leading Smart Contract Generator, MyWish platform strives to provide its users with the most convenient, efficient, and easy-to-use tooling infrastructure for any blockchain of their choice. We are willing to serve our users with maximum flexibility by offering variability of contract templates and tools for crypto assets management, such as automated smart contracts creation, airdrop multisender service, and cross-chain solutions.</p>\n<p>Throughout a 5-year experience, our project managed to<strong> create more than 39,000 Smart Contracts and gain the trust of 49,000 users.</strong></p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/5173/mywish-dapp-other-matic-logo_7c47eb54db7ffe6581f40ce869ccd302.png",
+      "link": "https://dappradar.com/dapp/mywish",
+      "website": "https://mywish.io/",
+      "chains": [
+        "bnb-chain",
+        "eos",
+        "ethereum",
+        "moonbeam",
+        "other",
+        "polygon",
+        "solana",
+        "tron"
+      ],
+      "categories": [
+        "other"
+      ],
+      "socialLinks": [
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/MyWish.io/",
+          "type": "facebook"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/mywishplatform",
+          "type": "github"
+        },
+        {
+          "title": "medium",
+          "url": "https://cryptomywish.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/MyWish_platform",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/mywishplatform",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/c/MyWishplatform",
+          "type": "youtube"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 5390,
+      "name": "OpenOcean",
+      "description": "OpenOcean is a leading DEX Aggregator, a cross-chain swap aggregator in the crypto space, offering best swap rate across 30+ chains and 1,000+ deep liquidities.",
+      "fullDescription": "<ul>\n  <li>OpenOcean is the most efficient DEX aggregator, integrating major DEXs across 18 blockchains.</li>\n  <li>OpenOcean’sintelligent routing algorithm optimizes swaps for maximum returns and is completely FREE to use!</li>\n  <li>OpenOcean also provides users with API/SDK, Widget and a tailor-made user interface to support their specific investment strategy.</li>\n  <li>With combination of AMM &amp; RFQ mechanism, OpenOcean Limit Order function has high order fulfillment rate.</li>\n  <li>Spot and derivative trading with the best price and lowest slippage that is possible in the market.</li>\n  <li>Swap transactions and cross-chain swap transactions on Ethereum, BNB Chain, Arbitrum, Optimism, Avalanche and Fantom.</li>\n  <li>Intelligent routing and machine learning to offer best rates and lowest possible gas fees.</li>\n</ul>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/5390/openocean-dapp-defi-ethereum-logo_321024781bf0a84d5e9bd2940477dc4d.png",
+      "link": "https://dappradar.com/dapp/openocean",
+      "website": "https://openocean.finance/",
+      "chains": [
+        "arbitrum",
+        "aurora",
+        "avalanche",
+        "base",
+        "bnb-chain",
+        "celo",
+        "cronos",
+        "ethereum",
+        "fantom",
+        "linea",
+        "moonriver",
+        "ontology",
+        "optimism",
+        "polygon",
+        "solana",
+        "telosevm",
+        "tron",
+        "zksync-era"
+      ],
+      "categories": [
+        "exchanges",
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "cmc",
+          "url": "https://coinmarketcap.com/community/profile/OpenOcean/",
+          "type": "cmc"
+        },
+        {
+          "title": "coingecko",
+          "url": "https://www.coingecko.com/en/exchanges/openocean_finance",
+          "type": "coingecko"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.gg/C7PHQaKdNX",
+          "type": "discord"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/openocean-finance/",
+          "type": "github"
+        },
+        {
+          "title": "medium",
+          "url": "https://blog.openocean.finance/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/OOFinance",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/OpenOceanGlobal",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/c/OpenOcean",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 5549,
+      "name": "BloctoSwap",
+      "description": "Inter-chain automatic market-making decentralized exchange on Flow, with assets bridged from Ethereum",
+      "fullDescription": "<p>BloctoSwap is the first decentralized exchange on Flow network (onflow.org). The first decentralized exchange to get the native FLOW token and the officially operated stablecoin FUSD.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/5549/bloctoswapethereum-dapp-exchanges-ethereum-logo_4f018cf417e013ae29c580d4d1416db6.png",
+      "link": "https://dappradar.com/dapp/bloctoswap",
+      "website": "https://swap.blocto.app",
+      "chains": [
+        "bnb-chain",
+        "ethereum",
+        "flow",
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/H34KZqF",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/blocto",
+          "type": "facebook"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/blocto",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/BloctoApp",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 6968,
+      "name": "Refinable",
+      "description": "Trade the Metaverse - Decentralized multichain NFT Marketplace",
+      "fullDescription": "<p>Refinable is the definitive solution to create, discover, trade, and leverage NFTs. Our marketplace provides an accessible environment, for any user, brand, or community, by offering multi-chain flexibility, ultra-low cost alternatives, and high performance options to engage with NFT content.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/6968/refinable-dapp-collectibles-bsc-logo_6f952328af32db2c0c77edf8b4aafa7f.png",
+      "link": "https://dappradar.com/dapp/refinable",
+      "website": "https://refinable.com",
+      "chains": [
+        "bnb-chain",
+        "ethereum",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/m3ZAa5WE",
+          "type": "discord"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/refinableapp/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://refinable.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/refinable",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/refinablenft",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/refinableapp",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UCYPZDEzXib3ya5rEGvuUUAw",
+          "type": "youtube"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 8635,
+      "name": "DefiXBet",
+      "description": "DXB is a Fully decentralized P2P gaming & Betting platform with no off-chain data. All data will be stored on the Blockchain using the SOLANA ecosystem.",
+      "fullDescription": "<p>DefiXBet Platform Summary</p>\n<p>DXB is a fully decentralized P2P gaming &amp; Betting platform with no off-chain data. All data will be stored on the Blockchain using the SOLANA ecosystem, chainlink oracles, and chainlink VFR. we are planning to share its profits among DXBs token holders by using the Defi protocol. Another intriguing point about DefiXBet's platform is \"C.D.B - Custom Decentralized Betting\" which provides the ability for any player to create a new custom decentralized bet with a variety of betting options on DefiXBet's platform. The players can share the result of their bets with other players, and, most importantly, the DXB token possesses an actual use case that makes it unique and will grow with the scale of the platform.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/8635/defixbet-dapp-gambling-other-logo_5868d1025d97c09266ee1d86ee948786.png",
+      "link": "https://dappradar.com/dapp/defixbet",
+      "website": "https://defixbet.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "socialLinks": [
+        {
+          "title": "medium",
+          "url": "https://defixbet.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/DefiXBetChat",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/DefiXBet",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 9089,
+      "name": "HunnyPlay",
+      "description": "The 1st Online Casino Built on BNB Chain Yield Aggregator",
+      "fullDescription": "<p>HunnyPlay aims to be the most engaging and fun iGaming destination. We are developing a brand new and unprecedented gamified farming playground ♠️♥️♣️♦️🎰🎲 where every user can enjoy high yields and exciting games at the same time.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/9089/hunnyplay-dapp-gambling-bsc-logo_a78d3b0b2bcbf7e5d6dfcedde55f0b91.png",
+      "link": "https://dappradar.com/dapp/hunnyplay",
+      "website": "https://hunnyplay.io",
+      "chains": [
+        "avalanche",
+        "bnb-chain",
+        "ethereum",
+        "fantom",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "gambling"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://blog.hunny.finance/",
+          "type": "blog"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/hunnyfinance/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/hunnyfinance",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/HunnyFinance/",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/HunnyPlay",
+          "type": "telegram"
+        },
+        {
+          "title": "tiktok",
+          "url": "https://www.tiktok.com/@hunnyfinance",
+          "type": "tiktok"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/HunnyPlay_",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/@hunnyplay",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 9440,
+      "name": "AxGANS",
+      "description": "1500 Artworks generated by a GAN trained on the combination of hundreds of abstract patterns and original abstract drawings by Solorigins team.",
+      "fullDescription": "<p>AxGANS are artworks generated by a GAN trained on the combination of hundreds of abstract patterns and original abstract drawings by Solorigins team. Playform.io was the tool used to create AbstraX GAN Paintings. Applying the models to various datasets or applications, very satisfying results were received after long hours of training. Each AxGAN is one of a kind and there will be only 1,500 AXGANS minted ever. &nbsp;AxGANS have different GANStone, GAN Level, Lucky Animal, Conservation Status and Greed God traits. We added 'Lucky Animal' and 'Conservation Status' to create awareness on the Endangered Animals in addition to other attributes. 50% Donation will be made to World Wildlife Fund from the Secondary Earnings.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/9440/axgans-dapp-collectibles-other-logo_cc46793961ccecec9b335aaad48883c3.png",
+      "link": "https://dappradar.com/dapp/axgans",
+      "website": "https://solorigins.github.io/axgans/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/kPwVASwwSx",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/solorigins",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10184,
+      "name": "FRAKT",
+      "description": "Frakt is a generative fractal art NFT collection. We harness the mathematical nature of fractals to generate intricate design patterns.",
+      "fullDescription": "<p>Each frakt is one uniquely generated art piece. There are 5 different types of fractal images and 4 color schemes, each with various rarities, and a limited supply of 10,000 frakts out of infinite possibilities. Every fractal generation uses a token hash, making it unique. They are randomly generated, with the rarity determined by a cryptographically secure random generator. All Frakts are stored on Solana's smart contract, and after generation the art is stored on IPFS. All of this makes the project trustless and decentralised, and the whole codebase is open source.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10184/frakt-dapp-collectibles-solana-logo_71e459c1d2f212c76c8d4a8454055928.png",
+      "link": "https://dappradar.com/dapp/frakt",
+      "website": "https://frakt.art/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/T4e7aBrn",
+          "type": "discord"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/joinchat/G-c0N9i4Ey1hZTUy",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/FraktArt",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10185,
+      "name": "Soldex",
+      "description": "Scalable and decentralized exchange governed by the DeFi community. Natively built on Solana",
+      "fullDescription": "<p>The soldex.ai protocol will power the new wave of flexible financial markets by serving as a foundation layer for settlement, market making, custody, and liquidity. A new wave of market makers will own unique algorithms, customize their trading strategy, and adjust their desired risk exposure while keeping custody of their funds. In addition to exchanges, businesses such as OTC desks and market makers can simplify complex settlement workflows, which often involve manual procedures that are slow and prone to error without the fear of losing their funds.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10185/soldex-dapp-exchanges-solana-logo_6c5ad67d2d8efa2e48c15abcb340997b.png",
+      "link": "https://dappradar.com/dapp/soldex",
+      "website": "https://soldex.ai",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/dDr6fgkGhG",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/Soldex-102189735463890",
+          "type": "facebook"
+        },
+        {
+          "title": "medium",
+          "url": "https://soldex.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/Soldexai",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/soldexai",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10187,
+      "name": "Mercurial",
+      "description": "Building the Liquidity Platform for Stables on Solana",
+      "fullDescription": "<p>Mercurial is building new liquidity systems to maximise the utility and yield of stable assets on Solana.</p>\n<p>A few innovations we’ve brought to Solana:</p>\n<p><strong>Dynamic Vault</strong></p>\n<p>Dynamic Market Making Vaults To Maximize Capital Utilization</p>\n<p><strong>Swap Pools</strong></p>\n<p>Low slippage swaps with Solana’s first multi-token swap pools for pegged and depegged stables</p>\n<p><strong>Institutional Vaults</strong></p>\n<p>Generate guaranteed yields by dynamically lending out liquidity to Institutional partners for Market Making</p>\n<p><strong>Building The Best Educated Community</strong></p>\n<p>Mercurial is building the best educated community on DeFi through a community grant program an incentivized quiz platform, and NFT incentives to promote DeFi learning</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10187/mercurial-dapp-defi-solana-logo_3dfc12808771cf53aa6f9d157f4f8205.png",
+      "link": "https://dappradar.com/dapp/mercurial",
+      "website": "https://mercurial.finance",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/WwFwsVtvpH",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/MercurialFi",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10188,
+      "name": "Solend",
+      "description": "Algorithmic, decentralized protocol for lending and borrowing on Solana.",
+      "fullDescription": "<p>Solend is an algorithmic, decentralized protocol for lending and borrowing on Solana.</p>\n<p>Lending and borrowing has proven itself as being key in a DeFi ecosystem. However, current products are slow and expensive. On Solana, Solend can scale to being 100x faster and 100x cheaper. Solend aims to be the easiest to use and most secure solution on Solana.</p>\n<p>With Solend, you can:</p>\n<p>Earn interest</p>\n<p>Borrow</p>\n<p>Leverage long</p>\n<p>Short</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10188/solend-dapp-defi-solana-logo_846f86e687c101e57f2d92aaf59c232c.png",
+      "link": "https://dappradar.com/dapp/solend",
+      "website": "https://solend.fi/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/solend",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/solendprotocol",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10189,
+      "name": "Synergy Land",
+      "description": "ARPG Play to Earn Game Project Powered by Solana.",
+      "fullDescription": "<p><strong>Synergy Land</strong> is a blockchain multiplayer ARPG game currently in development by <strong>Sygergy Studio</strong>, set in a fantasy world divided into four ecosystems, each based on the following elements: earth, water, fire and cold.</p>\n<p>The player will take on the role of different types of warriors, exploring dungeons of up to four players who will undertake a great adventure against very powerful creatures, using a fully dynamic and an innovative spell system that will allow players to combine elements to cast spells creating new beneficial or harmful synergies between them.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10189/synergyland-dapp-games-solana-logo_4c9034f8238eff5daa2d1f85e37a76c7.png",
+      "link": "https://dappradar.com/dapp/synergy-land",
+      "website": "https://synergyland.world/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "games"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/MgbEfXarUa",
+          "type": "discord"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/SynergyLand",
+          "type": "github"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/synergyland.world/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/@synergyland",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/synergyland",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/SynergyLandGame",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UC1DYy4b4n_ntEjNDsIVOx8A",
+          "type": "youtube"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10198,
+      "name": "Solanart",
+      "description": "Solanart is one of the leading marketplaces in the NFT space and the first to launch on the Solana blockchain.",
+      "fullDescription": "<p>Solanart is a fully-fledged NFT marketplace based on the Solana network that allows anyone to acquire or sell Solana-based NFTs. &nbsp;Solanart aims to help promote artists and creators by providing them with a trustless marketplace to share their art.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10198/solanart-dapp-marketplaces-solana-logo_f68be262ec35fddc737dc28824825676.png",
+      "link": "https://dappradar.com/dapp/solanart",
+      "website": "https://solanart.io/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/solanart",
+          "type": "discord"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/solanartio/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/@solanart",
+          "type": "medium"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/solanartnft",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UCCHKL_nj3lxjy9CKxO_LOwQ",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10199,
+      "name": "DigitalEyes Market",
+      "description": "Solana’s first open and permission-less NFT marketplace! Trade any NFT, safe and secure!",
+      "fullDescription": "<p>Solana’s first open and permission-less NFT marketplace! Trade any NFT, safe and secure!</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10199/digitaleyesmarket-dapp-marketplaces-solana-logo_a94aaf1dfe97e50e369bb8b8821f7524.png",
+      "link": "https://dappradar.com/dapp/digitaleyes-market",
+      "website": "https://digitaleyes.market/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/aWrxsRyhFQ",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/DigitalEyesNFT",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10200,
+      "name": "Serum",
+      "description": "Faster, Cheaper and more Powerful DeFi",
+      "fullDescription": "<p>Serum brings the speed and convenience of centralized exchanges to DeFi while remaining fully trustless and transparent.</p>\n<p>Serum is a protocol for decentralized exchanges that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10200/serum-dapp-defi-solana-logo_d4874916648f3a258ffd45d6b2d19915.png",
+      "link": "https://dappradar.com/dapp/serum",
+      "website": "https://www.projectserum.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/zxPsXcB",
+          "type": "discord"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/project-serum/serum-dex",
+          "type": "github"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/ProjectSerum",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/projectserum",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10231,
+      "name": "Raydium",
+      "description": "An on-chain order book AMM powering the evolution of DeFi",
+      "fullDescription": "<p>🧬 So, what is Raydium?</p>\n<p>Raydium is an automated market maker (AMM) built on the Solana blockchain which leverages the central order book of the Serum decentralized exchange (DEX) to enable lightning-fast trades, shared liquidity and new features for earning yield.</p>\n<p>👽 Why is Raydium different?</p>\n<p>Other AMM DEXs and DeFi protocols are only able to access liquidity within their own pools and have no access to a central order book. Additionally, with the majority of platforms running on Ethereum, transactions are slow and gas fees are high.</p>\n<p>Raydium offers a few key advantages:</p>\n<p>1.</p>\n<p>Faster and cheaper: We leverage the efficiency of the Solana blockchain to achieve transactions magnitudes faster than Ethereum and gas fees which are a fraction of the cost.</p>\n<p>2.</p>\n<p>A central order book for ecosystem-wide liquidity: Raydium provides on-chain liquidity to the central limit order book of the Serum DEX, meaning that Raydium allows access to the order flow and liquidity of the entire Serum ecosystem.</p>\n<p>3.</p>\n<p>Trading interface: For traders who want to be able to view TradingView charts, set limit orders and have more control over their trading.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10231/raydium-dapp-defi-solana-logo_17fc396d07351830764dbb69ddb495f2.png",
+      "link": "https://dappradar.com/dapp/raydium",
+      "website": "https://raydium.io/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/6EvFwvCfpx",
+          "type": "discord"
+        },
+        {
+          "title": "medium",
+          "url": "https://raydium.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/raydiumprotocol",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/RaydiumProtocol",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10261,
+      "name": "Sunny Aggregator",
+      "description": "Solana's composable DeFi yield aggregator",
+      "fullDescription": "<p>Sunny is a composable DeFi yield aggregator powered by Solana, one of the fastest growing blockchain ecosystems. The Sunny Protocol is designed with composability as a core feature, enabling other applications and protocols to easily build on top of it.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10261/sunnyaggregator-dapp-defi-solana-logo_5da44ac14443cb3b153b92127dfe3428.png",
+      "link": "https://dappradar.com/dapp/sunny-aggregator",
+      "website": "https://app.sunny.ag/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/dvXuvN9KeP",
+          "type": "discord"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/sunny-aggregator",
+          "type": "medium"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/SunnyAggregator",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10263,
+      "name": "Marinade Finance",
+      "description": "The easiest way to stake Solana - liquid staking",
+      "fullDescription": "<p><strong>Liquid funds, no lockup</strong></p>\n<p>By going with Marinade you avoid the unstaking period so you're free to use your assets any time you like.</p>\n<p><strong>Improved network security</strong></p>\n<p>We choose as many validators as possible to make the system more robust, secure and decentralised.</p>\n<p><strong>Easy as piece of stake</strong></p>\n<p>We do all the work - from managing stake accounts to monitoring validators and automatic rebalancing.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10263/marinadefinance-dapp-defi-solana-logo_3a1c89ff8b0e902df849864428888a5d.png",
+      "link": "https://dappradar.com/dapp/marinade-finance",
+      "website": "https://marinade.finance/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://marinade.finance/blog/",
+          "type": "blog"
+        },
+        {
+          "title": "cmc",
+          "url": "https://coinmarketcap.com/currencies/marinade/",
+          "type": "cmc"
+        },
+        {
+          "title": "coingecko",
+          "url": "https://www.coingecko.com/en/coins/marinade-staked-sol",
+          "type": "coingecko"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/6EtUf4Euu6",
+          "type": "discord"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/marinade-finance",
+          "type": "medium"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/MarinadeFinance",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10266,
+      "name": "Orca",
+      "description": "The most user-friendly DEX on Solana 🐳",
+      "fullDescription": "<p>Orca is the easiest way to exchange cryptocurrency on the Solana blockchain. Here, you can exchange tokens with minimal transaction fees and lower latency than any DEX on Ethereum, all while knowing that you’re getting a fair price. Additionally, you may provide liquidity to a trading pool to earn a share of trading fees.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10266/orca-dapp-defi-solana-logo_0271f99b1f454f9903cfd8b9fe8f9869.png",
+      "link": "https://dappradar.com/dapp/orca",
+      "website": "https://www.orca.so/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/nSwGWn5KSG",
+          "type": "discord"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/orca_so",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/orca_so",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10267,
+      "name": "Saber",
+      "description": "Saber is an automated market maker for trading stable asset pairs on Solana.",
+      "fullDescription": "<p>The Saber AMM offers advanced automated market-making pools on Solana, enabling efficient trading between pegged assets such as USDC, USDT, SOL, mSOL and bSOL.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10267/saber-project-exchanges-10267-logo_05f7b00d8b0a6a460eea9a52a60fb668.png",
+      "link": "https://dappradar.com/dapp/saber",
+      "website": "https://saberdao.io/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://blog.saberdao.io/",
+          "type": "blog"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.saberdao.io/",
+          "type": "discord"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/saberdao/dapp",
+          "type": "github"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/The_Saber_DAO",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10314,
+      "name": "SolSea",
+      "description": "The First Open NFT Marketplace on Solana. Introducing NFTs with embedded licenses, lowest trading fees, and real-time analytics from on-chain data.",
+      "fullDescription": "<p>The first NFT platform that embeds licenses and unlockable content when minting. Lowest trading fees on Solana - from 2% down to 0%. Live mints and real-time analytics provided directly from on-chain data. Start trading now - no login required.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10314/solsea-dapp-marketplaces-solana-logo_690144a6aa39422c3bbdb99b67875562.png",
+      "link": "https://dappradar.com/dapp/solsea",
+      "website": "https://solsea.io/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/DXYtfjyAPE",
+          "type": "discord"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/solsea_nft/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://allart.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/OfficialSolSea",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/SolSeaNFT",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UCiCw-5dtD-Aa0BqHuCNDt8w",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10334,
+      "name": "Parrot",
+      "description": "Never too late to join the party! コープ",
+      "fullDescription": "<p>The Parrot Protocol is a DeFi network built on Solana that will include the stablecoin PAI, a non-custodial lending market, and a margin trading vAMM. These are all use cases designed to solve one single problem: making value locked in DeFi systems accessible.</p>\n<p>Today billions of dollars of value are locked in hundreds of DeFi systems, and converted into different yield generating tokens, such as the Uniswap LP tokens, or the AAVE interest bearing tokens. There aren’t many use cases available for these LP tokens. The value locked in DeFi as LP tokens are inaccessible, because their risks are opaque, and their units of account unsuitable for human consumption.</p>\n<p>The Parrot Protocol is setting out to make value locked in LP tokens accessible, by creating a liquidity &amp; lending network collateralized by these LP tokens. The Secret Parrot Master Plan (just between you and me):</p>\n<ul>\n  <li>Create the PAI stablecoin, backed by LP tokens as collaterals. This creates a common unit of account to make it easy for holders of different types of LP tokens to transact with each other.</li>\n  <li>Create the Parrot Lending market, taking LP tokens as collaterals. This allows LP holders to access their locked value by borrowing against lender liquidity.</li>\n  <li>Create a margin trading product (virtual AMM) using PAI as the common unit of account. This allows the Parrot community to collect fees, and feed the family.</li>\n</ul>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10334/parrot-dapp-defi-solana-logo_32833e9324e6ddf447830891089a9aad.png",
+      "link": "https://dappradar.com/dapp/parrot",
+      "website": "https://parrot.fi/mint/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/gopartyparrot",
+          "type": "discord"
+        },
+        {
+          "title": "medium",
+          "url": "https://gopartyparrot.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/gopartyparrot",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/gopartyparrot",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10335,
+      "name": "Port Finance",
+      "description": "A suite of money market products built on Solana",
+      "fullDescription": "<p><strong>The First Non-Custodial Liquidity Protocol On Solana</strong></p>\n<p>Port Finance is a lending protocol that aims to provide an entire suite of fixed income products including variable rate lending, fixed rate lending and interest rate swaps.</p>\n<p>Our core contributors are a team of close-knit engineers with backgrounds from Google, Facebook, and Microsoft and who have contributed open source code for Serum and Solana.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10335/portfinance-dapp-defi-solana-logo_75605e038d519b939f05ac87776124a6.png",
+      "link": "https://dappradar.com/dapp/port-finance",
+      "website": "https://port.finance/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/nAMXAYhTb2",
+          "type": "discord"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/port_finance",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/port_finance",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10427,
+      "name": "Skulls.WTF",
+      "description": "3D Skulls Designer NFT Collection on Solana Generation 1 SWTF",
+      "fullDescription": "<p>Skulls WTF 6000 unique 3D custom made generative art collective on Solana first generation of SWTF</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10427/skullswtf-dapp-collectibles-solana-logo_ba4ef6728d5ba83ed2e7ae3e590460a3.png",
+      "link": "https://dappradar.com/dapp/skulls-wtf",
+      "website": "https://magiceden.io/marketplace/skulls.wtf",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/th5mqVtk6p",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/skullswtf",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10562,
+      "name": "SOL DOGES",
+      "description": "SOLDOGES are the first DOGE themed NFT on Solana Blockchain. Play to Earn gaming and vector animated 9999 Shiba Inu DOGE NFT's programmatically generated and li",
+      "fullDescription": "<p>SOLDOGES are the first DOGE themed NFT on Solana Blockchain. Play to Earn gaming and vector animated 9999 Shiba Inu DOGE NFT's programmatically generated and living on the Solana Blockchain and Arweave. They are the coolest looking DOGE NFT's on Solana Chain. These collectibles have more than 300 rare traits. 4 different poses. Traits include collars, costumes, expressions, eyes, skin pattern, background, headwear, location, glasses and more! We all love our DOGE. SolDOGES NFT are not mere JPEGs. The NFT's are scalable vector based and animated.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10562/soldoges-dapp-collectibles-solana-logo_8b0e272383056a87716ec0e190efb45a.png",
+      "link": "https://dappradar.com/dapp/sol-doges",
+      "website": "https://soldoges.com",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/6UhUfDha9Y",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/SolDOGESNFT",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10612,
+      "name": "Quiztok",
+      "description": "'Quiztok' is a blockchain-based startup with a 'Quiz Content Service Platform' business It started in January 2017 and is currently providing Quiz talk service.",
+      "fullDescription": "<p>In Quiztok platform, quiz content are provided with advertisements. Users can receive reward points by solving quizzess and consuming Ad at the same time. Reward points received from Quiztok can be changed into Tokens and users can use them in many different ways. For instance, Quiztok users can become advertisers and pay for their advertisements with Tokens. Users can also make a donation in their names width Tokens or exchange Tokens with cash. Used QTCON will be purchased by advertisers again and advertisers will use for their advertising costs in Quiztok platform. The block chain technology that Quiztok uses is highly reliable and effective for advertisers to expose their Ad with its transparent and safe systems. As users solve more quizzes, advertising consumption will increase. This will lead to increase in Ad effects in Quiztok platform. As a result, we can expect to attract more and more users as the value of our platform increases..</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10612/quiztok-dapp-social-solana-logo_043e07c33f42aa0543f8e2dff4656e0c.png",
+      "link": "https://dappradar.com/dapp/quiztok",
+      "website": "https://quiztok.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "other"
+      ],
+      "socialLinks": [
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/quiztok.kr",
+          "type": "facebook"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/quiztok_kr/",
+          "type": "instagram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/quiztokkr",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UCtl9jTbXMa43F17zrnr1AeQ",
+          "type": "youtube"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10616,
+      "name": "Larix",
+      "description": "The lending gateway of Solana.",
+      "fullDescription": "<p>Larix is the ultimate lending gateway on Solana, adopted a dynamic interest rate model and created more capital-efficient risk management pools, as such a broad selection of collateral types, crypto tokens, stablecoins, synthetic assets, NFTs, and other kind of assets can be fully utilized in a safe way.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10616/larix-dapp-defi-solana-logo_06de5baef18faa69ef405c4207847e69.png",
+      "link": "https://dappradar.com/dapp/larix",
+      "website": "https://projectlarix.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/hfnRFV9Ngt",
+          "type": "discord"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/ProjectLarix",
+          "type": "github"
+        },
+        {
+          "title": "medium",
+          "url": "https://projectlarix.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/projectlarix",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/ProjectLarix",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10675,
+      "name": "Allbridge",
+      "description": "Fast, Affordable, and Secure way of moving liquidity between EVM, non-EVM, and L2 blockchains.",
+      "fullDescription": "<p>Allbridge is a simple, modern, and reliable way to transfer assets between different networks. It is a bridge between both EVM and non-EVM compatible blockchains, that aims to cover L2 solutions and NFT transfers in the future.</p>\n<p>Allbridge’s mission is to make the blockchain world borderless and provide a tool to freely move assets between various blockchains.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10675/allbridge-dapp-defi-ethereum-logo_e8a2f4cabca4ce53497c98b31dcf5741.png",
+      "link": "https://dappradar.com/dapp/allbridge",
+      "website": "https://allbridge.io/",
+      "chains": [
+        "aurora",
+        "avalanche",
+        "bnb-chain",
+        "celo",
+        "ethereum",
+        "fantom",
+        "near",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/allbridge.io/",
+          "type": "facebook"
+        },
+        {
+          "title": "medium",
+          "url": "https://allbridge.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/allbridge/",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/allbridge_announcements",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/allbridge_io",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10734,
+      "name": "Magic Eden",
+      "description": "The NFT Marketplace Solana deserves, smooth as silk & fast as Solana. 0% listing fee, only 2% transaction fee.",
+      "fullDescription": "<p>Building the biggest and most liquid NFT marketplace globally and home to the next generation of digital creators.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10734/magiceden-dapp-marketplaces-solana-logo_4c3e2b8273f1b58465b6032f5dafd8ad.png",
+      "link": "https://dappradar.com/dapp/magic-eden",
+      "website": "https://magiceden.io/",
+      "chains": [
+        "ethereum",
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://contenthub.magiceden.io",
+          "type": "blog"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/b87UnCy6P2",
+          "type": "discord"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/magiceden_nft",
+          "type": "instagram"
+        },
+        {
+          "title": "tiktok",
+          "url": "https://www.tiktok.com/@magiceden_nft",
+          "type": "tiktok"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/MagicEden",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/c/MagicEden",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10739,
+      "name": "forbitspace",
+      "description": "Forbitspace is an interoperability DEX  aggregator protocol that unites decentralized applications across disparate blockchains.",
+      "fullDescription": "<p>The forbitspace is an aggregator protocol that allows traders to benefit from a large variety of financial tools in a single interface.</p>\n<p>forbitspace use an algorithm spaceflight smart order routing that split a single transaction into multiple orders across various DEX’s, also route orders through allows crypto traders to tap deep liquidity and receive better pricing low cost &amp; efficient the most liquidity</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10739/forbitspace-dapp-defi-ethereum-logo_c9c661d2eb81a2162bc6b56894a4ebdf.png",
+      "link": "https://dappradar.com/dapp/forbitspace",
+      "website": "https://forbitspace.com/",
+      "chains": [
+        "avalanche",
+        "bnb-chain",
+        "ethereum",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://blog.forbitspace.com/",
+          "type": "blog"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/forbitspace",
+          "type": "facebook"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/@forbitspace",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/forbitspace",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/forbitspace",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/watch?v=Gfnx18uCATI",
+          "type": "youtube"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 10831,
+      "name": "GALAXY PANDA",
+      "description": "Galaxy Panda is a 10,000 exclusive NFTs ready to be used in the Play-To-Earn game. Each NFT will allow rewards, boosters, and specific allocation.",
+      "fullDescription": "<p>What is Galaxy Panda NFT? What to Expect from Galaxy Panda?</p>\n<p><strong>Galaxy Panda</strong> will launch an exclusive collection of <strong>2D</strong> and <strong>3D </strong>unique digital art running on the Solana blockchain.</p>\n<p>Furthermore, <strong>Galaxy Pandas </strong>NFTs will combine Music, Video, and the world's first-ever Treasury Bill NFT.</p>\n<p><strong>More than just providing a collectible NFT, Galaxy Panda allows you to enter an interesting ecosystem with some key milestones</strong>.</p>\n<p>Presale on March 26th at 3 pm UTC (1 NFT = 1 SOL)</p>\n<p>Public sale on March 27th at 3 pm UTC (1 NFT = 2 SOL)</p>\n<p>Let's play, Let's Pandataga.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10831/galaxypanda-dapp-collectibles-solana-logo_4ce50256ed1aa6e091c630a3b5799ed9.png",
+      "link": "https://dappradar.com/dapp/galaxy-panda",
+      "website": "https://galaxypanda.space/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "http://galaxypanda.space/",
+          "type": "blog"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.gg/sCSmXEDc",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/Galaxy-Panda-249784346941588?kid=ABC",
+          "type": "facebook"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/galaxypanda_space/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/@galaxypanda.space",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/GalaxyPandaSpace/",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/GalaxyPandagroup",
+          "type": "telegram"
+        },
+        {
+          "title": "tiktok",
+          "url": "https://www.tiktok.com/@galaxypanda.space",
+          "type": "tiktok"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/GalaxyPandanft",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UCNlJtr4QPjivyE5E5sWatcg",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 10950,
+      "name": "Solana Worlds",
+      "description": "5,555 Unique Alien Worlds On The Solana Blockchain.",
+      "fullDescription": "<p>Each world is algorithmically generated from over 200 different digitally painted and photographic attributes.&nbsp;</p>\n<p>No two worlds are the same.</p>\n<p>Proof of ownership stored on the Solana blockchain forever.</p>\n<p>Worlds consist of a Galaxy, a Planet, Moons, Meteors and Technology each in 5 different rarity levels.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/10950/solanaworlds-dapp-collectibles-solana-logo_2fb89d897726050990e04e65bb19fffc.png",
+      "link": "https://dappradar.com/dapp/solana-worlds",
+      "website": "https://www.solanaworlds.com",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/REAMSNYC",
+          "type": "facebook"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/REAMS___",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 11005,
+      "name": "Swamp Crabs",
+      "description": "Collection of 777 unique crabs looking for treasure in solana blockchain",
+      "fullDescription": "<p>The Swamp crabs are a collection of 777 hand crafted crabs found hanging around on the solana Chain looking for treasure. Adopting a Swamp crabs grants you access to The Rain Forest and swamps and the fight to create powerfull home!</p>\n<p>No presale date and crabs are avaliable for instant mint by using phartom wallet and all collecttion will be avaliable on secondary market after complete mint.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/11005/swampcrabs-dapp-collectibles-solana-logo_fb2c7583818f6027e362a1645690f7ef.png",
+      "link": "https://dappradar.com/dapp/swamp-crabs",
+      "website": "http://swampcrabs.monster/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/Mx6QYCbxyJ",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/swampcrabnft",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 11046,
+      "name": "CHIKIN",
+      "description": "Chikin NFT Canvas is a 1000x1000 pixels image. Every pixel is a NFT you can own, update and sell. You can stake your pixels to earn CKC.",
+      "fullDescription": "<p>NFT canvas is a 1000x1000 pixels image where every pixel is a NFT, &nbsp;everything you draw on the canvas is stored directly in the Solana blockchain.</p>\n<p>You can obtain a pixel by minting it, or you can buy minted pixels with CKC.</p>\n<p>When you own a pixel, you can change its color, or put it on sale whenever you want!</p>\n<p>You can stake a rectangle of pixels to earn CKC over time through our pixel staking pool.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/11046/chikinnftcanvas-dapp-collectibles-solana-logo_e6cfe36e573187e958fb2b9af65a6def.png",
+      "link": "https://dappradar.com/dapp/chikin",
+      "website": "https://chikin.run",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/EhKmKkf9gk",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/profile.php?id=100077725824324",
+          "type": "facebook"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/ChikinDeveloper",
+          "type": "github"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/chikintuttut/",
+          "type": "instagram"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/+BG1HI84WGdwyMmU0",
+          "type": "telegram"
+        },
+        {
+          "title": "tiktok",
+          "url": "https://www.tiktok.com/@chikintuttut",
+          "type": "tiktok"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/ChikinDev",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 11330,
+      "name": "Rabbit Random Crew",
+      "description": "We are evil Rabbits - we are hungry and bloodthirsty",
+      "fullDescription": "<p>The 3D high-quality collective base of the 3,000 RABBITs ready to dominate the Solana blockchain world</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/11330/rabbitrandomcrew-dapp-collectibles-solana-logo_2a44d673090385693cb92bbfad30e6d9.png",
+      "link": "https://dappradar.com/dapp/rabbit-random-crew",
+      "website": "https://rabbits-crew.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/825xx36Ah3",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/RabbitCrewNFT",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 11506,
+      "name": "fraktion.art",
+      "description": "NFTs Fraktionalization Protocol, equipped with a DEX to trade fraktions of NFTs as well as a market-creation UI. Integrated with Serum and Raydium.",
+      "fullDescription": "<p>What is fraktion.art?</p>\n<p>It’s an open source protocol that can be used by anyone who wishes to fraktionalise or break into parts an NFT token on Solana.&nbsp;</p>\n<p>It was built on top of the Metaplex code by the FRAKT team.</p>\n<p>What is fraktionalisation?</p>\n<p>Fractionalisation is the act of breaking an NFT into fraktions.&nbsp;</p>\n<p>In short, the protocol locks the NFT in a vault and emits SPL tokens representing parts of the original NFT.&nbsp;</p>\n<p>Those SPL tokens are emitted to the owner of the original NFT so they own all the fraktions of the original NFT.&nbsp;</p>\n<p>Why fraktionalise NFTs?&nbsp;</p>\n<p>Thanks to our full DEX integration with Raydium and Serum, anyone who fraktionalizes their NFT is capable of actively trading those fraktions or to swap them instantly.</p>\n<p>Unlocking the liquidity tied up in NFTs solves two problems for two distinct groups of people:</p>\n<p>it helps free up capital for NFT owners who wish to get more liquidity to pursue other ventures</p>\n<p>it lowers the barrier to entry to the NFT ecosystems and allows anyone to own fraktions of any NFT that has been fraktionalized</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/11506/fraktionart-dapp-defi-solana-logo_4987a4c23f6abc766f1b7afc8f15288b.png",
+      "link": "https://dappradar.com/dapp/fraktion-art",
+      "website": "https://fraktion.art",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "twitter",
+          "url": "https://www.twitter.com/fraktion_art",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 11764,
+      "name": "Doge Capital",
+      "description": "Why should Monkes have all the fun? 5,000 Unique generative Doges on #Solana",
+      "fullDescription": "<p>WELCOME WOOFERS! Doge Capital is a collection of 5000 cute 24x24 pixel art collection on the Solana Blockchain. Holding a Doge Capital grants membership to the Woof Club and owner exclusive perks. Monkeys and Apes have been having fun for too long so we have decided to join them. Woof!</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/11764/dogecapital-dapp-collectibles-solana-logo_8997507deb2be098eace9340cf75999a.png",
+      "link": "https://dappradar.com/dapp/doge-capital",
+      "website": "https://www.thedogecapital.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/DeM5VFF29v",
+          "type": "discord"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/DAWGTOKEN/",
+          "type": "reddit"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/thedogecapital",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12192,
+      "name": "Samusky Token",
+      "description": "Solana's First Staking Available Meme Token",
+      "fullDescription": "<p>We believe meme tokens are the future. Samusky will be an extensible project, not just a meme. Staking! The first step is staking, then an easy-to-use DEX and then AMM.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12192/samuskytoken-dapp-defi-solana-logo_207a4dc9345a99fd73982ab824b83d08.png",
+      "link": "https://dappradar.com/dapp/samusky-token",
+      "website": "https://samusky.io/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://samusky.io/discord.gg/samuskyio",
+          "type": "discord"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/samuskyio",
+          "type": "github"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/user/samuskyio",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/samuskyio",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/samuskyio",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12206,
+      "name": "Aiko NFT",
+      "description": "I'm a new concept of ART-NFT based on AI.",
+      "fullDescription": "<p>I'm a new concept of ART-NFT based on AI.</p>\n<p>I'm a sexy waifu developed by artificial intelligence living on the Solana Blockchain. I can be your friend, your lover, or whatever you want me to be.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12206/aikonft-dapp-collectibles-solana-logo_389b7ea59ba580875ca06e031abfb067.png",
+      "link": "https://dappradar.com/dapp/aiko-nft",
+      "website": "https://aiko.io/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/Y72V9wn3Yw",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/aikonft",
+          "type": "facebook"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/aiko.nft/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://aikonft.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/AikoNFT/",
+          "type": "reddit"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/aikonft",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12299,
+      "name": "Alpha Art",
+      "description": "A-Class Trading with Alpha Art",
+      "fullDescription": "<p>Alpha art is the revolutionary NFT marketplace currently allowing users to buy/sell Solana based NFTs without any listing fees.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12299/alphaart-dapp-marketplaces-solana-logo_83af014c40c7b7c57e6e42fdfadf8d57.png",
+      "link": "https://dappradar.com/dapp/alpha-art",
+      "website": "https://alpha.art/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/HGvk9YDFBy",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/alphaartmarket",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12301,
+      "name": "Exchange Art",
+      "description": "Solana NFT Marketplace for Everyone!",
+      "fullDescription": "<p>An easy to use, realiable and convenient Solana NFT Marketplace for Everyone!</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12301/exchangeart-dapp-marketplaces-solana-logo_f97023262b2d112c76ad39e48b74c456.png",
+      "link": "https://dappradar.com/dapp/exchange-art",
+      "website": "https://exchange.art/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "marketplaces"
+      ],
+      "socialLinks": [
+        {
+          "title": "github",
+          "url": "https://discord.gg/2ambwf3z4A",
+          "type": "github"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/exchgART",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12310,
+      "name": "SolaJump",
+      "description": "SolaJump NFT Game is bringing back the classic arcade gaming experience with a brand new twist. 10,000 NFTs algorithmically generated unique collectibles.",
+      "fullDescription": "<p>Solajump, the world’s first play-to-win short game based on the Solana blockchain, is thrilled to bring back the fun of classic short games. Developed by Nerd 148 Studios, it uses NFTs to revolutionize the world of short gaming with its play-to-win model.</p>\n<p>We are building a community of CryptoGamers not just JPEGs, Lovers.</p>\n<p>We made the first-ever NFT Video game cartridge!</p>\n<p>The beginning of &nbsp;the SOLARCADE METAVERSE</p>\n<p>https://nerd148.co</p>\n<p>Our vision aims at merging the video game world with top of the line tools to enable widespread use of NFT technology in our day to day lives. We view NFTs and the Blockchain technology as groundbreaking and work consistantly on its implementations in the Gaming industry. We are working on developing multi chain and cross plateform reusable NFT As Service (NAS) and expanding constantly the capabilities of such services. Our community is our top priority, as we progress and expand on the Solana and Ethereum blockchain – growing the community and providing more and more services are the only way to implement our vision widespread NFT As Service use.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12310/solajump-dapp-games-solana-logo_be41c39292d2ef98b15d1cdf319a3360.png",
+      "link": "https://dappradar.com/dapp/solajump",
+      "website": "https://solajump.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "games"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://nerd148.co",
+          "type": "blog"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.gg/uT42V3EBS3",
+          "type": "discord"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/solajump_game/",
+          "type": "instagram"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/solajump_nftgame",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/Sola_jump",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UC9iSovOcXOTnxH6gcUj961w",
+          "type": "youtube"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12712,
+      "name": "Wormhole",
+      "description": "Wormhole is a generic messaging protocol that delivers a pathway for any kind of information—funds, votes, programs & more— to supported networks.",
+      "fullDescription": "<p>Wormhole Network is a generic message passing protocol connecting high value blockchains together, with applications leveraging the the core messaging layer to facilitate interoperability between ecosystems. Secured by 19 guardians, developers are able to leverage the protocol to send arbitrary data cross-chain including tokens, NFTs, oracle data, governance decisions and more. Recent implementations of Wormhole include the Portal and NFT bridge, allowing for seamless asset transfers across supported chains. Currently connected to Solana, Terra, Ethereum, Binance Smart Chain, Polygon, Avalanche and Oasis, its design also allows for fast consensus, easily extensible and upgradable design to connect to more chains allows developers to build on top of Wormhole easily.&nbsp;</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12712/wormhole-dapp-defi-ethereum-logo_c1eb8b8fea1b65f1d026eebba6ed66b5.png",
+      "link": "https://dappradar.com/dapp/wormhole",
+      "website": "https://wormhole.com/",
+      "chains": [
+        "avalanche",
+        "bnb-chain",
+        "ethereum",
+        "oasis",
+        "other",
+        "polygon",
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/wormholecrypto",
+          "type": "discord"
+        },
+        {
+          "title": "medium",
+          "url": "https://wormholecrypto.medium.com/",
+          "type": "medium"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/wormholecrypto",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/wormholecrypto",
+          "type": "twitter"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "dappId": 12862,
+      "name": "Sol.Fish NFT",
+      "description": "Sol.Fish is a 100% hand-made NFT collection, no algorithmic art generation! Every fish is created as a one of kind token with unique attributes.",
+      "fullDescription": "<p>SolFish is 100% hand-made, no NFT is algo-generated. We create every NFT by hand and list on marketplaces, instead of user minting. Every NFT also has unique attributes. It's a cross between art NFT and game item NFT.</p>\n<p>In Jan 2022 the team has launched the first game based on the NFTs: Underwater Fight.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12862/solfishnft-dapp-collectibles-solana-logo_da99f04276e51529b3459ebec11d1b58.png",
+      "link": "https://dappradar.com/dapp/sol-fish-nft",
+      "website": "https://sol.fish",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/CRYefVSTQN",
+          "type": "discord"
+        },
+        {
+          "title": "twitter",
+          "url": "http://twitter.com/SolFish_NFT",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 12901,
+      "name": "Alfprotocol",
+      "description": "Alf is a protocol for capital deployment on Solana for the purposes of liquidity provision and yield farming, both with and without margin of up to 200x.",
+      "fullDescription": "<p>Alf is a Solana native automated market maker, decentralized lending, and liquidity (up to 200x) providing protocol where users can participate as lenders or borrowers in isolated lending pools. The Alf Protocol facilitates a new kind of leveraged yield farming experience for borrowers, with enhanced leverage and farming rewards, while enabling lenders to earn a significantly higher yield on supplied tokens without the risk of impermanent loss.&nbsp;</p>\n<p>Alf improves capital efficiency and facilitates more liquid markets by connecting low-risk, low-effort investors providing liquidity to lending protocols with risk-seeking, active management investors who focus on leveraged liquidity provision and yield farming pools.&nbsp;</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12901/alfprotocol-dapp-defi-solana-logo_d021971260018d049cbdbe4f255817a3.png",
+      "link": "https://dappradar.com/dapp/alfprotocol",
+      "website": "https://alfprotocol.com/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "defi"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/invite/alfprotocol",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/Alfprotocol-104768562036040",
+          "type": "facebook"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/alfprotocol/",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/@alfprotocol",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/user/ALFPROTOCOL",
+          "type": "reddit"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/AlfProtocol",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 12972,
+      "name": "Star Atlas",
+      "description": "Virtual gaming metaverse on the Solana blockchain with Unreal Engine 5 real-time graphics, multiplayer game, and decentralized financial technologies.",
+      "fullDescription": "<p>Star &nbsp;Atlas is a next-gen gaming metaverse emerging from the confluence of &nbsp;state of the art blockchain, real-time graphics, multiplayer video game, &nbsp;and decentralized financial technologies.</p>\n<p>Real-time &nbsp;graphics technology using Unreal Engine 5’s Nanite allows for cinematic &nbsp;quality video game visuals. Blockchain technology using the Solana protocol established a largely serverless and secured gameplay &nbsp;experience. Non-fungible tokens obtained and traded within Star Atlas &nbsp;creates an economy that replicates the tangibility of real world assets &nbsp;and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and join the fleet with your spaceship NFTs!</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/12972/staratlas-dapp-games-solana-logo_705568fabf4a846347ac34665a7a3293.png",
+      "link": "https://dappradar.com/dapp/star-atlas",
+      "website": "https://staratlas.com",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "games"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/staratlas",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/StarAtlasMMO",
+          "type": "facebook"
+        },
+        {
+          "title": "github",
+          "url": "https://github.com/staratlasmeta/",
+          "type": "github"
+        },
+        {
+          "title": "instagram",
+          "url": "https://www.instagram.com/staratlasgame",
+          "type": "instagram"
+        },
+        {
+          "title": "medium",
+          "url": "https://medium.com/star-atlas",
+          "type": "medium"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/staratlas",
+          "type": "reddit"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/staratlasgame",
+          "type": "telegram"
+        },
+        {
+          "title": "tiktok",
+          "url": "https://www.tiktok.com/@staratlasmetaverse",
+          "type": "tiktok"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/staratlas",
+          "type": "twitter"
+        },
+        {
+          "title": "youtube",
+          "url": "https://www.youtube.com/channel/UC7hRfErrpokhop_4bmmDB2A",
+          "type": "youtube"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 13034,
+      "name": "Saros Finance",
+      "description": "Saros Finance is the ultimate DeFi platform native to Solana, with trading, staking and yield farming services.",
+      "fullDescription": "<p>Saros Finance is a Solana-based Unified Suite of DeFi Products with three fundamental building blocks: SarosSwap (AMM), SarosFarm, and SarosStake, with SarosSwap being the core of the entire ecosystem.</p>\n<p>We have built Saros Finance with multiple protocols to create a super-network attracting builders and users to the Solana Ecosystem.</p>\n<p>SarosSwap will maximize price discovery, drawing retail investors to Solana.</p>\n<p>SarosFarm and Saros will entice and engage liquidity providers, resulting in a large inflow of funds while simplifying and accelerating liquidity bootstrapping and encouraging new projects to be built on Solana.</p>\n<p>And obviously, Saros Finance will not limit only to 3 building blocks but will continue to branch into various protocols to satisfy the demands of future users.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/13034/sarosfinance-dapp-defi-solana-logo_dfac04c96aa2ced8edce7dd27b551729.png",
+      "link": "https://dappradar.com/dapp/saros-finance",
+      "website": "https://saros.finance/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "blog",
+          "url": "https://blog.saros.finance/",
+          "type": "blog"
+        },
+        {
+          "title": "discord",
+          "url": "https://saros.link/discord",
+          "type": "discord"
+        },
+        {
+          "title": "telegram",
+          "url": "https://t.me/Saros_Finance",
+          "type": "telegram"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/Saros_Finance",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    },
+    {
+      "dappId": 13109,
+      "name": "_PixusMetaverse",
+      "description": "Corona Pixus, Climate Pixus, Pixus World\nNFTs with a passion to make the world a better place",
+      "fullDescription": "<p>PixusMetaverse covers Corona Pixus, Climate Pixus and Pixus World subcollections</p>\n<p>NFT community with a passion to</p>\n<p>fight against climate change</p>\n<p>fight against coronavirus</p>\n<p>fight to make the world a better place</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/13109/pixusmetaverse-dapp-collectibles-solana-logo_c3adc299f0942b5be85c63b8e51a8534.png",
+      "link": "https://dappradar.com/dapp/pixusmetaverse",
+      "website": "http://meta.pixus.cc/",
+      "chains": [
+        "solana"
+      ],
+      "categories": [
+        "collectibles"
+      ],
+      "socialLinks": [
+        {
+          "title": "discord",
+          "url": "https://discord.gg/WWfxtvYJkq",
+          "type": "discord"
+        },
+        {
+          "title": "facebook",
+          "url": "https://www.facebook.com/PixusMetaverse",
+          "type": "facebook"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/r/PixusMetaverse/",
+          "type": "reddit"
+        },
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/_PixusMetaverse",
+          "type": "twitter"
+        }
+      ],
+      "tags": [
+        {
+          "id": "10",
+          "name": "Layer 2",
+          "slug": "layer-2"
+        },
+        {
+          "id": "11",
+          "name": "Content Creation",
+          "slug": "content-creation"
+        },
+        {
+          "id": "12",
+          "name": "Art",
+          "slug": "art"
+        },
+        {
+          "id": "13",
+          "name": "Pools",
+          "slug": "pools"
+        },
+        {
+          "id": "14",
+          "name": "Gambling",
+          "slug": "gambling"
+        },
+        {
+          "id": "15",
+          "name": "Knowledge",
+          "slug": "knowledge"
+        },
+        {
+          "id": "16",
+          "name": "Farming",
+          "slug": "farming"
+        },
+        {
+          "id": "18",
+          "name": "Discussions",
+          "slug": "discussions"
+        },
+        {
+          "id": "19",
+          "name": "Photos",
+          "slug": "photos"
+        },
+        {
+          "id": "1",
+          "name": "NFT",
+          "slug": "nft"
+        },
+        {
+          "id": "20",
+          "name": "Videos",
+          "slug": "videos"
+        },
+        {
+          "id": "21",
+          "name": "Move to Earn",
+          "slug": "move-to-earn"
+        },
+        {
+          "id": "22",
+          "name": "Metaverse",
+          "slug": "metaverse"
+        },
+        {
+          "id": "23",
+          "name": "Sports",
+          "slug": "sports"
+        },
+        {
+          "id": "24",
+          "name": "Social",
+          "slug": "social"
+        },
+        {
+          "id": "2",
+          "name": "Exchanges",
+          "slug": "exchanges"
+        },
+        {
+          "id": "3",
+          "name": "Staking",
+          "slug": "staking"
+        },
+        {
+          "id": "4",
+          "name": "Yield",
+          "slug": "yield"
+        },
+        {
+          "id": "5",
+          "name": "DeFi",
+          "slug": "defi"
+        },
+        {
+          "id": "6",
+          "name": "Games",
+          "slug": "games"
+        },
+        {
+          "id": "7",
+          "name": "Play to Earn",
+          "slug": "play-to-earn"
+        },
+        {
+          "id": "8",
+          "name": "Marketplaces",
+          "slug": "marketplaces"
+        },
+        {
+          "id": "9",
+          "name": "Governance",
+          "slug": "governance"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageCount": 7,
+  "resultCount": 301,
+  "resultsPerPage": 50
+}

@@ -11,7 +11,16 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={`${inter.className} relative min-h-screen`}>
+        {/* Background Bubbles */}
+        {/* <div className="absolute flex flex-wrap items-center justify-around w-full h-full -z-10">
+          <div className="w-40 h-40 rounded-full opacity-75 bubble bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 blur-2xl"></div>
+          <div className="w-64 h-64 rounded-full opacity-75 bubble bg-gradient-to-r from-red-500 via-purple-500 to-pink-500 blur-2xl"></div>
+          <div className="w-32 h-32 rounded-full opacity-75 bubble bg-gradient-to-r from-blue-500 via-purple-500 to-red-500 blur-2xl"></div>
+          <div className="w-48 h-48 rounded-full opacity-75 bubble bg-gradient-to-r from-purple-500 via-pink-500 to-blue-500 blur-2xl"></div>
+        </div> */}
+        {children}
+      </body>
     </html>
   );
 }

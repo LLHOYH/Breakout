@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "range": "24h",
+    "chain": null,
+    "results": {
+      "dappId": 46618,
+      "name": "Jupiter Exchange",
+      "description": "Jupiter Station is a cutting-edge platform offering a range of perpetuals and other trading tools for a world-class swap experience",
+      "fullDescription": "<p>Jupiter Station is a cutting-edge platform offering a range of perpetuals and other trading tools for a world-class swap experience. It's designed for simplicity and versatility in various use cases. Key features include:</p>\n<p><br></p>\n<ul>\n  <li>Advanced Swaps</li>\n  <li>Payments API for precise token transactions</li>\n  <li>Limit Orders for strategic trading</li>\n</ul>\n<p><br></p>\n<p>Explore Jupiter Station for an innovative trading experience with its diverse set of tools. Visit Jupiter Station to enhance your trading strategies and capabilities.</p>",
+      "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/46618/jupiterexchange-project-defi-46618-logo-166x166_34240581872cf3d4ec2ad72c09c33233.png",
+      "link": "https://dappradar.com/dapp/jupiter-exchange",
+      "website": "https://jup.ag",
+      "tokens": [],
+      "categories": [
+        "defi",
+        "exchanges"
+      ],
+      "socialLinks": [
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/JupiterExchange",
+          "type": "twitter"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.gg/jup",
+          "type": "discord"
+        }
+      ],
+      "tags": [],
+      "metrics": {
+        "transactions": 2075811,
+        "transactionsPercentageChange": 1.58,
+        "uaw": 185811,
+        "uawPercentageChange": 11.7,
+        "volume": 6761896.59,
+        "volumePercentageChange": 33.59,
+        "balance": 0.49,
+        "balancePercentageChange": 2.08
+      },
+      "chains": [
+        "solana"
+      ],
+      "firstTransactionDate": "2022-10-13"
+    }
+  }
